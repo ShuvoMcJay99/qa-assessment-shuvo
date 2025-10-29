@@ -1,3 +1,15 @@
+## Final Report
+➡️ **[GoQuant QA Bootcamp – Phase 2 Final Report (PDF)](./GoQuant%20QA%20Bootcamp%20-%20Final%20Report.pdf)**
+
+## How to Run
+```bash
+npm ci
+npx playwright install
+npx playwright test --project=chromium --project=firefox --project=webkit
+npx playwright show-report
+
+
+
 QA Bootcamp Automated Testing – GoQuant Assessment
 
 Author: Shuvojeet Mukherjee
@@ -11,7 +23,7 @@ Date init: Oct 25, 2025
 
 
 
--- Project Overview
+## Project Overview
 
 This repository contains a comprehensive Playwright-TypeScript automation suite designed to test the GoQuant trading dashboard – an intentionally unstable platform provided as part of the GoQuant QA Bootcamp.
 The focus of this assessment is testing methodology, code quality, attention to detail, and problem-solving ability, rather than pure test pass rates.
@@ -19,7 +31,7 @@ The focus of this assessment is testing methodology, code quality, attention to 
 
 
 
--- Tools & Frameworks
+## Tools & Frameworks
 
 | Category        | Tool                                | Purpose                                     |
 | --------------- | ----------------------------------- | ------------------------------------------- |
@@ -33,7 +45,7 @@ The focus of this assessment is testing methodology, code quality, attention to 
 
 
 
--- Testing Strategy
+## Testing Strategy
 
 1) Functional Coverage
 
