@@ -1,0 +1,5 @@
+{
+  "okx":   { "label": "OKX", "slug": "okx" },
+  "usdm":  { "label": "Binance USDM", "slug": "usdm" },
+  "coinm": { "label": "Binance COIN-M", "slug": "coinm" }
+}

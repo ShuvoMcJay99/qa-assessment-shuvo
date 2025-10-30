@@ -1,0 +1,5 @@
+{
+  "okx":   { "user": "env:OKX_USER",   "pass": "env:OKX_PASS" },
+  "usdm":  { "user": "env:USDM_USER",  "pass": "env:USDM_PASS" },
+  "coinm": { "user": "env:COINM_USER", "pass": "env:COINM_PASS" }
+}
